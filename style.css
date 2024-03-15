@@ -1,0 +1,148 @@
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+header .container ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+header .container li a {
+    text-decoration: none;
+    color: black;
+}
+
+header ul a:hover {
+    color: red;
+}
+
+.tit {
+    text-decoration: none;
+    color: red;
+    border: 2px solid red;
+    padding: 15px 10px;
+    border-radius: 10px;
+}
+
+.ing {
+    margin-top: 30px;
+}
+
+.intro1 h2 {
+    text-align: center;
+}
+
+/* .intro {
+    background-image: url("./img/hero-img.png");
+    background-repeat: no-repeat;
+    background-position: center;
+} */
+
+.text {
+    border: none;
+    background-color: #DE2E54;
+    border-radius: 10px;
+    padding: 15px 20px;
+    color: white;
+}
+
+.intro h2 {
+    font-size: 50px;
+    color: white;
+}
+
+.intro {
+    background-image: url('./img/image\ 4.png');
+}
+
+.intro .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ccc {
+    display: flex;
+}
+
+.ddd {
+    display: flex;
+    
+}
+
+.intro1 .container h4 {
+    text-align: center;
+}
+
+.gfd {
+    align-items: center;
+}
+
+.dfg {
+   margin-left: 30px; 
+}
+
+.ddd p {
+    color: #444444;
+}
+
+.ccc p {
+    color: #444444;
+}
+
+.intro3 {
+    background-color: aqua;
+    gap: 30px;
+}
+
+.oyoq {
+    background-color: black;
+    margin: none;
+}
+
+footer .container ul{
+    list-style: none;
+    display: flex ;
+    gap: 50px;
+}
+
+footer .container ul a{
+    text-decoration: none;
+    color: white;
+    align-items: center;
+}
+
+footer ul a:hover {
+    color: red;
+}
+
+.intro3 .container .ddds   {
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro3 .container .dddl   {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dws {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    margin-top: none;
+}
+
+.ddds {
+    position: relative;
+    top: -50px;
+}
